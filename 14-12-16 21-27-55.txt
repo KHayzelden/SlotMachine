@@ -1,0 +1,4 @@
+Toatl Games Played: 1
+Games Won: 0
+Games Lost: 1
+Average Credits: -8
